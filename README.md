@@ -5,7 +5,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <h3>screen Shot</h3>
-  ![image](https://github.com/sobiaqamar/stopwatch/assets/143915043/cea9dfed-f1a0-43b5-916a-19496e0fe7ec)
+  
+  
 
   
